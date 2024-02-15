@@ -47,5 +47,6 @@
 ### Related awesome lists
   - https://github.com/terrakok/kmp-awesome
   - https://github.com/chrisnkrueger/awesome-kotlin-multiplatform
+  - https://github.com/sebkur/awesome-compose-for-desktop
   - https://github.com/jetpack-compose/jetpack-compose-awesome
   - https://github.com/hadiyarajesh/awesome-compose
