@@ -50,3 +50,5 @@
   - https://github.com/sebkur/awesome-compose-for-desktop
   - https://github.com/jetpack-compose/jetpack-compose-awesome
   - https://github.com/hadiyarajesh/awesome-compose
+  - https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps
+  - https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources
