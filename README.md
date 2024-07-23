@@ -39,6 +39,7 @@
   - [MOKO resources](https://github.com/icerockdev/moko-resources): Common resources
 
 ### Applications
+  - [Cutcon](https://github.com/mahozad/cutcon): Media cutter, converter, viewer (video, audio, image)
   - [PeopleInSpace](https://github.com/joreilly/PeopleInSpace): List of people in space and the position of the International Space Station
   - [Gitnuro](https://github.com/JetpackDuba/Gitnuro): Git client
   - [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP): Music player and explorer
