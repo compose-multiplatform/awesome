@@ -37,6 +37,7 @@
   - [Compottie](https://github.com/alexzhirkevich/compottie): Lottie animations
   - [Orbital](https://github.com/skydoves/orbital): Implements animations such as shared-element transition 
   - [MOKO resources](https://github.com/icerockdev/moko-resources): Common resources
+  - [Compose Settings](https://github.com/alorma/Compose-Settings): Common settings
 
 ### Applications
   - [Cutcon](https://github.com/mahozad/cutcon): Media cutter, converter, viewer (video, audio, image)
