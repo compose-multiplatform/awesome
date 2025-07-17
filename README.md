@@ -4,6 +4,8 @@
 - [GitHub repository](https://github.com/JetBrains/compose-multiplatform)  
 - [Help and documentation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-getting-started.html)
 
+<br>
+
 ### Composables/components/widgets
   - [WavySlider](https://github.com/mahozad/wavy-slider): Squiggly slider like the one in Android 13
   - [Reveal effect](https://github.com/svenjacobs/reveal): Coach mark and walkthrough for components
@@ -16,7 +18,8 @@
 
 ### Themes/Designs/Look and feels
   - [Jewel](https://github.com/JetBrains/jewel/): IntelliJ New UI
-  - [Compose Fluent](https://github.com/Konyaco/compose-fluent-ui): Microsoft Fluent UI
+  - [Miuix](https://github.com/miuix-kotlin-multiplatform/miuix): Components with Xiaomi HyperOS design style
+  - [Compose Fluent](https://github.com/compose-fluent/compose-fluent-ui): Microsoft Fluent UI
 
 ### Architecture
   - [Premo](https://github.com/dmdevgo/Premo): Implements presentation layer 
@@ -41,10 +44,18 @@
 
 ### Applications
   - [Cutcon](https://github.com/mahozad/cutcon): Media cutter, converter, viewer (video, audio, image)
+  - [AB Download Manager](https://github.com/amir1376/ab-download-manager): Manage and organize downloads
   - [PeopleInSpace](https://github.com/joreilly/PeopleInSpace): List of people in space and the position of the International Space Station
   - [Gitnuro](https://github.com/JetpackDuba/Gitnuro): Git client
   - [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP): Music player and explorer
   - [SpMp](https://github.com/toasterofbread/spmp): A YouTube Music client
+
+### Plugins
+  - [Compose Hot Reload](https://github.com/JetBrains/compose-hot-reload): Iterate on your Compose UIs faster
+  - [Compose EXE Manifest](https://github.com/mahozad/compose-exe-manifest): Embed a manifest in the app exe file on Windows
+  - [Vlc Setup](https://github.com/mahozad/vlc-setup): Embed VLC for vlcj
+
+---
 
 ### Related awesome lists
   - https://github.com/terrakok/kmp-awesome
