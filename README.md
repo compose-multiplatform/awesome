@@ -1,4 +1,4 @@
-<img align="left" src="logo.svg" height="104" alt="Logo">
+<img align="left" src="logo.svg" height="116" alt="Logo">
 
 - [Website](https://www.jetbrains.com/lp/compose-multiplatform)  
 - [GitHub repository](https://github.com/JetBrains/compose-multiplatform)  
