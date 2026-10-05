@@ -69,6 +69,7 @@
 | ⭐2800 | [Gitnuro](https://github.com/JetpackDuba/Gitnuro) | Git client |
 | ⭐1200 | [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP) | Music player and explorer |
 | ⭐260  | [TrendingAI](https://github.com/HarlonWang/TrendingAI) | Tech trends from GitHub Trending, Hacker News and Product Hunt, picked and summarized by AI |
+| ⭐-  | [TMPlayer](https://github.com/dracu-lah/TMPlayer) | Open-source Telegram video player for Android TV and Desktop |
 
 <br>
 
